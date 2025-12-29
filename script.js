@@ -28,5 +28,5 @@ function setLanguage(lang) {
     document.getElementById("contact-title").innerText = translations[lang].contactTitle;
 }
 
-// idioma padrão
-setLanguage("en");
+// default language
+setLanguage("jp");
