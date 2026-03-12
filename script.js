@@ -2,15 +2,15 @@ const translations = {
     en: {
         role: "Web Developer | PHP | Laravel | JavaScript",
         aboutTitle: "About Me",
-        aboutText: "I am a web developer focused on PHP, Laravel, and JavaScript. I am currently building web applications and seeking opportunities in the IT industry.",
+        aboutText: "I completed a Web Engineering vocational training program where I studied HTML, CSS, JavaScript, PHP, Laravel and SQL. I continue improving my skills daily and am currently developing a language learning web application as a personal project.",
         projectsTitle: "Projects",
-        projectsText: "Student Management System (In development)",
+        projectsText: "Japanese Learning Web Application (Laravel / JavaScript / MySQL",
         contactTitle: "Contact"
     },
     jp: {
         role: "Webエンジニア｜PHP｜Laravel｜JavaScript",
         aboutTitle: "自己紹介",
-        aboutText: "PHP、Laravel、JavaScriptを中心に学習・開発を行っているWebエンジニアです。現在、IT業界でのキャリアを目指して開発に取り組んでいます。",
+        aboutText: "職業訓練のWEB系エンジニア養成科を修了し、HTML / CSS / JavaScript / PHP / Laravel / SQL を学びました。現在もスキル向上のために日々学習を続けており、個人プロジェクトとして語学学習用Webアプリを開発しています。",
         projectsTitle: "制作実績",
         projectsText: "学生管理システム（開発中）",
         contactTitle: "連絡先"
